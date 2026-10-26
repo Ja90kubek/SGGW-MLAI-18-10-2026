@@ -1,0 +1,2 @@
+Pierwszy zapis do pliku.
+Projekt SGGW - Context Managers.
